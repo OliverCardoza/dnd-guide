@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Version",
+    "page": [1],
+    "body": "These game rules were compiled using V3.4 of the Basic Rules for Dungeons & Dragons. The raw resources are available on the Wizards of the Coast site here: http://goo.gl/qiMgEZ."
+  },
+  {
+    "title": "Character",
+    "synonyms": ["player character", "PC"],
+    "page": [2],
+    "body": "In the Dungeons and Dragons game, each player creates an adventurer (also called a character) and teams up with other adventurers (played by friends)."
+  },
+  {
+    "title": "Dungeon Master",
+    "synonyms": ["DM", "GM", "Game Master"],
+    "page": [2],
+    "body": "The game's lead storyteller and referee. The DM creates adventures for the characters, who navigate its hazards and decide what they want their adventures to do."
+  },
+  {
+    "title": "Campaign",
+    "page": [2],
+    "body": "The ongoing story or quest(s) involving the adventurers."
+  },
+  {
+    "title": "Multiverse",
+    "page": [2, 3],
+    "body": "The worlds of the Dungeons & Dragons game exist within a vast cosmos called the multiverse, connected in strange and mysterious ways to one another and to other places of existence, such as the Elemental Plane of Fire and the Infinite Depths of the Abyss."
+  },
+  {
+    "title": "Dice",
+    "synonyms": ["die"],
+    "page": [3],
+    "body": "The game uses polyhedral dice with different numbers of sides. In these rules, the different dice are referred to by the letter d followed by the number of sides: d4, d6, d8, d10, d12, and d20."
+  },
+  {
+    "title": "Percentile dice",
+    "synonyms": ["d100"],
+    "page": [3],
+    "body": "Percentile dice, or d100, work a little differently than normal dice. You generate a number between 1 and 100 by rolling two different ten-sided dice numbered from 0 to 9. One die (designated before you roll) gives the ten digits, and the other gives the ones digit. Two 0s represent 100."
+  },
+  {
+    "title": "d3",
+    "page": [3],
+    "body": "To simulate the roll of 1d3, roll a d6 and divide the number rolled by 2 (round up)."
+  },
+  {
+    "title": "d2",
+    "page": [3, 4],
+    "body": "To simulate the roll of 1d2, roll any die and assign a 1 or 2 to the roll depending on whetjer it was odd or even."
+  },
+  {
+    "title": "Abilities",
+    "page": [4],
+    "body": "Every character and monster in the game has capabilities defined by six ability scores. The abilities are Strength, Dexterity, Constitution, Intelligence, Wisdon, and Charisma, and they typically range from 3 to 18 for most adventurers. These ability scores, and the ability modifiers derived from them, are the basis for almost every d20 roll that a player makes on a character's or monster's behalf."
+  },
+  {
+    "title": "d20",
+    "page": [4],
+    "body": "Ability checks, attack rolls, and saving throws are the three main kinds of d20 rolls, forming the core of the rules of the game. All three follow these simple steps. 1. Roll the die and add a modifier. 2. Apply circumstantial bonuses and penalties. 3. Compare the total to a target number."
+  },
+  {
+    "title": "Difficulty Class",
+    "synonyms": ["DC", "target number"],
+    "page": [4],
+    "body": "The target number for an ability check or a saving throw is called a Difficulty Class (DC). The target number for an attack roll is called an Armor Class (AC)."
+  },
+  {
+    "title": "Advantage",
+    "synonyms": ["Disadvantage"],
+    "page": [4],
+    "body": "Advantage reflects the positive circumstances surrounding a d20 roll, while disadvantage reflects the opposite. When you have either advantage or disadvantage, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage."
+  },
+  {
+    "title": "Rounding",
+    "page": [4],
+    "body": "Whenever you divide a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater."
+  }
+]
