@@ -4,3 +4,8 @@ This project aims to experiment with various methods to present a data feed whic
 
 * Annotate a list of several definitions using schema.org annotations
 * Use a custom Google Search to index and search contents
+
+# Dependencies
+
+* Python3
+* `pip3 install commonmark`
